@@ -1,0 +1,46 @@
+{
+  "decks": [
+    {
+      "name": "A Basic Deck",
+      "description": "What a swell deck example",
+      "id": 13
+    },
+    {
+      "name": "Rendering In React",
+      "description": "Main points on using and editing a react app",
+      "id": 14
+    }
+  ],
+  "cards": [
+    {
+      "front": "Learning",
+      "back": "Good Stuff",
+      "deckId": 13,
+      "id": 4
+    },
+    {
+      "front": "what",
+      "back": "even",
+      "deckId": 13,
+      "id": 6
+    },
+    {
+      "front": "Do stuff?",
+      "back": "Things happen",
+      "deckId": 14,
+      "id": 7
+    },
+    {
+      "front": "Things connect?",
+      "back": "Pass as props when applicable",
+      "deckId": 14,
+      "id": 8
+    },
+    {
+      "front": "Is this the back of the card?",
+      "back": "No",
+      "deckId": 14,
+      "id": 9
+    }
+  ]
+}
